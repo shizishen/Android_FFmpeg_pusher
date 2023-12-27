@@ -1,1 +1,2 @@
 # Android_FFmpeg_pusher
+将android摄像头采集的yuv数据编码，推流到云服务器中
